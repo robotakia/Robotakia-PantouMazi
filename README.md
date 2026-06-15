@@ -46,4 +46,4 @@
 
 Δείτε την παρουσίαση του έργου μας: https://youtu.be/kql0xtq44dQ
 
-Θα βρείτε τη σελίδα του έργου μας: 
+Θα βρείτε τη σελίδα του έργου μας: https://openedtech.ellak.gr/robotics2026/robotakia-pantoumazi-pantou-mazi-ena-rompotiko-taxidi-stin-prosvasimotita-me-to-edison/
